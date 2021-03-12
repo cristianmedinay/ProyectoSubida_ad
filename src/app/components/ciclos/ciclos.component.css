@@ -1,0 +1,15 @@
+h1 {
+    text-align: center;
+}
+
+div {
+    margin: auto;
+    padding: auto;
+    text-align: center;
+    background-color: cadetblue;
+}
+
+.card-imagen-configuracion {
+    height: 215px;
+    width: 215px;
+}

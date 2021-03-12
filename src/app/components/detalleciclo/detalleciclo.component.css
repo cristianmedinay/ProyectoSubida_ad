@@ -1,0 +1,22 @@
+.configurar-imagen {
+    width: 50px;
+    height: 50px;
+}
+
+.contenedor2 {
+    background-color: rgb(240, 230, 230);
+}
+
+.contenedor {
+    width: 90%;
+    margin: auto;
+    align-items: center;
+}
+
+.contenedor1 {
+    background-color: rgb(229, 229, 241);
+}
+
+.carta {
+    width: 10px;
+}
